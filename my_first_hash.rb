@@ -16,7 +16,7 @@ def shipping_manifest
                   "porcelain vases" => 2,
                   "oil paintings" => 3
                  }
-
+"oil paintings"
 end
 
 def retrieval
@@ -25,6 +25,7 @@ def retrieval
                   "porcelain vases" => 2,
                   "oil paintings" => 3
                  }
+  "porcelain vases"
 
 end
 
@@ -34,5 +35,5 @@ def adding
                   "porcelain vases" => 2,
                   "oil paintings" => 3
                  }
-
+"whale bone corsets"
 end
