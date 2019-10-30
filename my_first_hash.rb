@@ -24,7 +24,7 @@ def retrieval
                   "porcelain vases" => 2,
                   "oil paintings" => 3
                  }
-  shipping_manifest["porcelain vases"] =2
+  shipping_manifest["porcelain vases"] =3
 
 end
 
